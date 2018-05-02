@@ -11,3 +11,6 @@ for suit in suits{
 }
 
 print(deckOfCards)
+
+// Should you expect the suits to print in the exact order you specified? 
+// No, as it is a dictionary and dictionaries are are unordered.
